@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
-import 'package:firebase_sample/push_notification.dart';
-import 'package:firebase_sample/sign_in.dart';
+import 'package:firebase_sample/firebase%20Pushnotification/push_notification.dart';
+import 'package:firebase_sample/firebase%20Authentication/sign_in.dart';
 import 'package:flutter/material.dart';
 
 Future<void> onBackgroundHandler(RemoteMessage message) async {

@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_sample/home_page.dart';
-import 'package:firebase_sample/sign_up.dart';
+import 'package:firebase_sample/firebase%20Authentication/home_page.dart';
+import 'package:firebase_sample/firebase%20Authentication/sign_up.dart';
 import 'package:flutter/material.dart';
 
 class SignIn extends StatefulWidget {
